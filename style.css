@@ -7,9 +7,9 @@ h1 {
 }
 
 body {
-  background-image: url("Images/somerset house.jpg");
-  background-position: center;
-  background-size: center;
+  background-image: url("Images/london4.jpg");
+  background-position: /* FIXME:  */;
+  background-size: cover;
 }
 
 button {
